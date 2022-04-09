@@ -12,7 +12,7 @@
     "expo": "^33.0.0",
     "expo-cli": "^2.21.1",
     "firebase": "^6.2.4",
-    "moment": "^2.24.0",
+    "moment": "^2.29.2",
     "react": "16.8.3",
     "react-base": "^0.2.0",
     "react-dom": "^16.8.6",
